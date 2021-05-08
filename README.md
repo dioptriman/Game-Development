@@ -1,2 +1,2 @@
 # Game-Development
-This repository is for my game development portfolio
+This repository is for my game development portfolio (Code)
